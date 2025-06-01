@@ -1,0 +1,4 @@
+venv/
+MLOPS_PROJECT_5.egg-info/
+logs/
+gcp-key.json
